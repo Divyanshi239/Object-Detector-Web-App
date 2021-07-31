@@ -1,0 +1,19 @@
+.heading {
+    font-size: 25px;
+    width: 95%;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 5px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255) , rgb(104, 216, 226));
+    color: blue;
+    font-style: italic;
+    text-decoration: underline wavy rgb(97, 27, 38);
+}
+
+.bts {
+    width: 35%;
+    height: 50px;
+    font-size: 21px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(209, 133, 253) , rgb(255, 255, 255));
+}
