@@ -17,3 +17,31 @@
     border-radius: 15px;
     background-image: linear-gradient(to right, rgb(209, 133, 253) , rgb(255, 255, 255));
 }
+
+.subHeading {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(110, 110, 252);
+    font-style: italic;
+    background-color: yellow;
+    border-radius: 7px;
+    width: 95%;
+}
+
+.objects {
+    font-size: 20px;
+    border-radius: 7px;
+}
+
+.back {
+    background-color: black;
+    color: white;
+    margin: 5px;
+    font-size: 15px;
+}
+
+canvas {
+    border: solid grey 5px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgb(241, 178, 61);
+}
