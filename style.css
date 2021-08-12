@@ -28,8 +28,8 @@
     width: 95%;
 }
 
-.objects {
-    font-size: 20px;
+#status {
+    font-size: 18px;
     border-radius: 7px;
 }
 
@@ -44,4 +44,12 @@ canvas {
     border: solid grey 5px;
     border-radius: 25px;
     box-shadow: 5px 5px 5px rgb(241, 178, 61);
+}
+
+.objects {
+    position: fixed;
+    color: ghostwhite;
+    bottom: 0;
+    line-height: 2;
+    text-align: center;
 }
